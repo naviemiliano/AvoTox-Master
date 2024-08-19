@@ -1,6 +1,6 @@
 # 🥑 AvoTox - Codeology Fall 2024
-Model that parses through and classifies sentences into different toxicity categories while detecting threats, racism, and the general severity of toxicity
-The first half of the project will focus on building and training the model using Kaggle databases. From there, we will transition into utilizing APIs to examine the toxicity of comments across different social media platforms, such as Reddit and Instagram (up to you)
+- Model that parses through and classifies sentences into different toxicity categories while detecting threats, racism, and the general severity of toxicity
+- The first half of the project will focus on building and training the model using Kaggle databases. From there, we will transition into utilizing APIs to examine the toxicity of comments across different social media platforms, such as Reddit and Instagram (up to you)
 
 ## 🗒️ Overview 
 
