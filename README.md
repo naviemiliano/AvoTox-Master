@@ -3,8 +3,9 @@
 - The first half of the project will focus on building and training the model using Kaggle databases. From there, we will transition into utilizing APIs to examine the toxicity of comments across different social media platforms, such as Reddit and Instagram (up to you)
 
 ## 🗒️ Overview 
-
-Overview/tech stack goes here!
+Tech Areas: Data Preprocessing, Machine Learning, Deep Natural Language Processing (NLP)
+Tools/Techs: Kaggle (Data Sets), API (For social media integration)
+Individual Project
 
 ## 👫 Project Members
 
