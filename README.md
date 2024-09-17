@@ -17,7 +17,7 @@ Project Members: {Project Members}
 
 ## 💻 Set Up
 
-Setup instructions goes here!
+Clone it <3
 
 ##  💌 Notion
 https://aquamarine-handbell-a5f.notion.site/AvoTox-12a4440fee584bc6a66c750a9ea82f3b?pvs=4
