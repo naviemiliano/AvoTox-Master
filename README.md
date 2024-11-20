@@ -19,7 +19,7 @@ Project Members: {Project Members}
 
 Download <3
 
-# Setting Up Python 3.11.4 with VSCode
+### Setting Up Python 3.11.4 with VSCode
 Step 1: Install Python 3.11.4
 If Python 3.11.4 is not already installed on your system, follow the steps below:
 
@@ -43,7 +43,7 @@ sudo apt install python3.11
 
 On Windows: Download and install Python 3.11.4 from the official Python website.
 
-# Step 2: Add Python 3.11.3 to VSCode
+### Step 2: Add Python 3.11.3 to VSCode
 Open VSCode and press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the Command Palette.
 Search for Python: Select Interpreter and select it.
 In the interpreter selection menu, look for Python 3.11.4. If it does not appear:
@@ -52,14 +52,14 @@ Manually locate the Python 3.11.4 binary:
 On macOS/Linux: /usr/local/bin/python3.11 or /opt/homebrew/bin/python3.11
 On Windows: C:\Python311\python.exe (or the location where Python is installed).
 
-# Step 3: Set Python 3.11.3 as the Default Interpreter
+### Step 3: Set Python 3.11.3 as the Default Interpreter
 Once you select Python 3.11.3 as the interpreter, VSCode will use it for your current workspace.
 To set it globally for all workspaces:
 Go to File > Preferences > Settings (or Cmd+, on macOS).
 Search for Python: Default Interpreter Path.
 Set it to the path of Python 3.11.4, e.g., /usr/local/bin/python3.11.
 
-# Step 4: Verify the Selected Interpreter
+### Step 4: Verify the Selected Interpreter
 Open the integrated terminal in VSCode (`Ctrl+```) and run:
 python --version
 It should display:
